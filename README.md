@@ -1,2 +1,2 @@
 # iChat
-android application for real time chat
+an android application for real time chat
